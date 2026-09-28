@@ -1,6 +1,6 @@
 # 🤖 AI Agent Skills Catalog
 
-A curated collection of **350+ production-grade skills and domain playbooks** designed for AI coding assistants and autonomous agents (Antigravity, Claude Code, Gemini CLI, Cursor, Cline, and custom LLM workflows).
+A curated collection of **355+ production-grade skills and domain playbooks** designed for AI coding assistants and autonomous agents (Antigravity, Claude Code, Gemini CLI, Cursor, Cline, and custom LLM workflows).
 
 ---
 
@@ -59,6 +59,13 @@ cp -r skills/* ~/.gemini/config/skills/
 * **[growth-copywriting-funnels](skills/growth-copywriting-funnels/SKILL.md)**: Direct-response sales letters, VSLs, email onboarding sequences, and funnel optimization.
 * **[viral-growth-hacking](skills/viral-growth-hacking/SKILL.md)**: Viral loops ($K$-factor), short-form video hooks, and Product-Led Growth (PLG) mechanics.
 * **[startup-finance-valuation](skills/startup-finance-valuation/SKILL.md)**: SaaS unit economics (CAC, LTV, NRR), runway/burn-rate modeling, cap tables, and valuation models.
+
+### 🔍 Digital Investigation, OSINT & Intelligence Analysis
+* **[osint-investigator-pro](skills/osint-investigator-pro/SKILL.md)**: Open Source Intelligence (OSINT), search dorking, domain & infrastructure pivoting, SOCMINT, and visual geolocation (GEOINT/IMINT).
+* **[digital-investigation-forensics](skills/digital-investigation-forensics/SKILL.md)**: Digital forensics, evidence chain of custody, file metadata analysis (EXIF/documents), network infrastructure tracing, and email header analysis.
+* **[data-cross-referencing-linkage](skills/data-cross-referencing-linkage/SKILL.md)**: Entity resolution, probabilistic record linkage, public dataset cross-referencing (corporate registries, gazettes, sanctions), and investigative knowledge graphs.
+* **[investigative-journalism-factchecking](skills/investigative-journalism-factchecking/SKILL.md)**: Investigative journalism methods, multi-source fact-checking (IFCN standards), synthetic media / deepfake detection, and right-of-reply protocols.
+* **[strategic-intelligence-analyst](skills/strategic-intelligence-analyst/SKILL.md)**: Strategic intelligence analysis, the Intelligence Cycle, Analysis of Competing Hypotheses (ACH), Admiralty System source evaluation, and BLUF executive reporting.
 
 ### ⚙️ Automation & DevOps
 * **[n8n-workflow-automation](skills/n8n-workflow-automation/SKILL.md)**: Workflow automation with n8n, Queue Mode, AI Agent nodes, sub-workflows, and error handling.
